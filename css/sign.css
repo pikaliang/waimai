@@ -1,0 +1,36 @@
+.sign_input{
+    width:100%;
+    height:1.42rem;
+    border-top:1px solid #e0e0e0;
+    border-bottom:1px solid #e0e0e0;
+    background-color: #fff;
+}
+.sign_pw,.sign_pw1{
+    width:100%;
+    height:1.42rem;
+    border-bottom:1px solid #e0e0e0;
+    background-color: #fff;
+}
+.sign_input_yz{
+    width:100%;
+    height:1.42rem;
+    border-bottom:1px solid #e0e0e0;
+    background-color: #fff;
+}
+.sign_input input,.sign_input_yz input,.sign_pw input,.sign_pw1 input{
+    line-height: 1.42rem;
+    margin-left: .4rem;
+}
+.btn_sign{
+    width:10rem;
+    height:1.42rem;
+    background-color: limegreen;
+    margin-top: .3rem;
+    margin-left:.4rem;
+    line-height: 1.42rem;
+    text-align: center;
+    font-family: '苹方';
+    font-size:.46rem;
+    font-weight: bold;
+    color: #fff;
+}

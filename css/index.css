@@ -1,0 +1,242 @@
+.header{
+    width:100%;
+    height: 1.04rem;
+    position: fixed;
+    left:0;
+    top:0;
+    z-index: 999;
+    padding:.3rem 0;
+    background:-webkit-linear-gradient(left,#01aaff,#0087ff);
+}
+.position{
+    font-family: 'iconfont';
+    font-size: .5rem;
+    color: #fff;
+    line-height: 1.04rem;
+    margin-left:.4rem;
+    float: left;
+}
+/*.sousuo{*/
+    /*width: 7rem;*/
+    /*height:1.04rem;*/
+    /*background-color: #fff;*/
+    /*float: left;*/
+    /*margin-left:.3rem;*/
+/*}*/
+input{
+    width:7rem;
+    height:1.04rem;
+    line-height: 1.04rem;
+    margin-left: .3rem;
+    background-color: #fff;
+    float: left;
+}
+.shoucang{
+    font-family: 'iconfont';
+    font-size: .5rem;
+    color:#fff;
+    line-height: 1.04rem;
+    float: right;
+    margin-right:.4rem;
+}
+.banner{
+    width: 100%;
+    height:3.75rem;
+    margin-top:1.64rem;
+    position: relative;
+}
+.banner img{
+    width: 100%;
+    height:3.73rem;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:3;
+}
+.dian{
+    position: absolute;
+    width:2rem;
+    height: .2rem;
+    padding:0.05rem;
+    left:4.4rem;
+    bottom:0.04rem;
+    z-index: 5;
+}
+.dian1{
+    width:.2rem;
+    height: .2rem;
+    border-radius: 50%;
+    background-color: #fff;
+    float: left;
+    margin-left: .5rem;
+}
+.dian2{
+    background-color: #b0b0b0;
+}
+.fdlist{
+    width: 100%;
+    height:4.72rem;
+}
+.fdlist img{
+    width: 100%;
+    height:4.72rem;
+}
+.dapai{
+    width:10rem;
+    height: 2.9rem;
+    margin:0 auto;
+    background-color: #f6f6f6;
+}
+.dapai_left{
+    width:4rem;
+    height: 2.9rem;
+    margin-left:.7rem;
+    float:left;
+}
+.dapai_left span{
+    font-size: .3rem;
+    color:#000;
+    line-height: .6rem;
+    float: left;
+    margin-top:.3rem;
+}
+.dapai_left h1{
+     font-size: .43rem;
+     color:#000;
+     line-height: .43rem;
+     float: left;
+     margin-top:.3rem;
+ }
+.dapai_left h2{
+    font-size: .3rem;
+    color:#b0b0b0;
+    line-height: .6rem;
+    float: left;
+    margin-top:.3rem;
+}
+.dapai_r{
+    width:4.6rem;
+    height: 1.85rem;
+    margin-left:.7rem;
+    float: left;
+    margin-top:.65rem;
+}
+.dapai_r img{
+    width:4.6rem;
+    height: 1.85rem;
+}
+.tuijian{
+    width:100%;
+}
+.tuijian_z{
+    width: 100%;
+    height:1.42rem;
+    font-size: .4rem;
+    color:#000;
+    font-weight: bold;
+    line-height: 1.42rem;
+    text-align: center;
+}
+.tuijianxz{
+    width: 100%;
+    height:1.42rem;
+    font-size: .4rem;
+    color:#000;
+    font-weight: bold;
+}
+.tuijianxz1{
+    width: 25%;
+    line-height: 1.42rem;
+    text-align: center;
+    float: left;
+    border-bottom: 1px solid #ccc;
+}
+.fditem{
+    width: 100%;
+    height: 4.82rem;
+    background-color:#fff;
+    border-bottom:1px solid #ccc;
+    float: left;
+}
+.fditem_left{
+    width: 2.16rem;
+    height:4.82rem;
+    float: left;
+}
+.fditem_left_img{
+    width: 2.16rem;
+    height:2.52rem;
+}
+.fditem_left_img img{
+    width: 2.16rem;
+    height:2.52rem;
+}
+.fditem_r{
+    width:8.64rem;
+    height:4.82rem;
+    float: left;
+}
+.fditem_r h1{
+    font-size: .6rem;
+    color:#000;
+    font-weight: bold;
+    margin-left: .2rem;
+    margin-top: .2rem;
+}
+.fditem_r span{
+    font-size: .1rem;
+    color:#666;
+    margin-left: .2rem;
+    margin-top: .4rem;
+    float: left;
+}
+.fditem_r h2{
+    font-size: .1rem;
+    color:#666;
+    margin-right: .2rem;
+    margin-top: .4rem;
+    float: right;
+}
+.fdname{
+    width:1.76rem;
+    height: .37rem;
+    border:1px solid #e0e0e0;
+    line-height: .37rem;
+    text-align:center;
+    font-size:.2rem;
+    color:#bcbcbc;
+    margin-left: .2rem;
+    margin-top:1.4rem;
+}
+.shoudan{
+    width:.8rem;
+    height: .37rem;
+    border:1px solid #e0e0e0;
+    line-height: .37rem;
+    text-align:center;
+    font-size:.2rem;
+    background-color:#ebfae8;
+    color:#96a687;
+    margin-left: .2rem;
+    margin-top:.4rem;
+    float:left;
+}
+.huiyuan{
+    width:.8rem;
+    height: .37rem;
+    border:1px solid #e0e0e0;
+    line-height: .37rem;
+    text-align:center;
+    font-size:.2rem;
+    background-color:#ebfae8;
+    color:#bb773d;
+    margin-left: .2rem;
+    margin-top:.4rem;
+    float: left;
+}
+.fditem_r h3{
+    line-height: .37rem;
+    font-size:.2rem;
+    color:#bcbcbc;
+    margin-top:.4rem;
+}

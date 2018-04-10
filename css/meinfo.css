@@ -1,0 +1,70 @@
+.content{
+    background-color: #f5f5f5;
+}
+.usertx{
+    width: 100%;
+    height: 1.42rem;
+    background-color: #fff;
+    border-bottom:1px solid #f5f5f5;
+}
+.username{
+    width: 100%;
+    height: 1.42rem;
+    background-color: #fff;
+    border-bottom:1px solid #f5f5f5;
+}
+.usertx span,.username span{
+    font-size: .46rem;
+    line-height: 1.2rem;
+    color: #000;
+    margin-left: .3rem;
+}
+.bangd{
+    width: 100%;
+    height:8.58rem;
+    background-color: pink;
+    margin-top: .3rem;
+}
+.bangd1{
+    width: 100%;
+    height: 1.42rem;
+    background-color: #fff;
+    border-bottom: 1px solid #f5f5f5;
+}
+.bangd1 h1{
+    font-size: .46rem;
+    line-height: 1.42rem;
+    color: #999;
+    margin-left: .3rem;
+}
+.shouji{
+    width: 100%;
+    height: 1.42rem;
+    background-color: #fff;
+    border-bottom: 1px solid #f5f5f5;
+}
+.shouji i{
+    font-family: 'iconfont';
+    font-size:.5rem;
+    line-height: 1.42rem;
+    color: deepskyblue;
+    margin-left: .3rem;
+    float: left;
+}
+.shouji h2{
+    font-size:.44rem;
+    line-height: 1.42rem;
+    color:#000;
+    margin-left: .3rem;
+    float: left;
+}
+.shouji span{
+    font-size:.44rem;
+    line-height: 1.42rem;
+    float: right;
+    margin-right:.3rem;
+
+}
+.weixin{
+    color: deepskyblue;
+}
